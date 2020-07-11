@@ -40,7 +40,7 @@ pipeline {
           sh label: '', script: '''docker tag mahi:latest mahesh12/venkatrepo:1.2
 docker push mahesh12/venkatrepo:1.2'''  
         }
-     }}}
+     }
     }
 }
 
