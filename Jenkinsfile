@@ -1,5 +1,5 @@
-branchName = "preprod"
-qaEmailId ="cloudjour@gmail.com"
+branchName = "master"
+qaEmailId ="jenkinstest359@gmail.com"
 repositoryName = "demo"
 waitingTime = 24
 pipeline { 
